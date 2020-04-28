@@ -1,3 +1,5 @@
+// Priority queue example
+
 package com.test.java;
 
 //Java program to demonstrate working of 
